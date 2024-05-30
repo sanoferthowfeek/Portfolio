@@ -737,3 +737,8 @@ img {
       margin-right: 20px;
   }
 }
+
+.code{
+  display: grid;
+  gap: 5px;
+}
